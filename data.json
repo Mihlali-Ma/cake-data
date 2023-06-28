@@ -1,0 +1,34 @@
+{
+    "products":[
+        {
+            "prod-img":"https://i.postimg.cc/XvZ47QkD/carrot-cake-index-641a055e1a654.jpg",
+            "prod-name":"Carrot Cake",
+            "prod-price":"R450"
+        },
+        {
+            "prod-img":"https://i.postimg.cc/nrnvJjfT/IMG-4087-feature-2.jpg",
+            "prod-name":"Chocolate Cake",
+            "prod-price":"R560"
+        },
+        {
+            "prod-img":"https://i.postimg.cc/JnLTshWH/traditional-british-rich-fruit-cake-recipe-435791-hero-01-5ae2aea3437d468a914eb6a4682f2d7e.jpg",
+            "prod-name":"Fruit Cake",
+            "prod-price":"R600"
+        },
+        {
+            "prod-img":"https://i.postimg.cc/9FZY7hJG/chocolate-cheesecake-recipe-5.jpg",
+            "prod-name":"Chocolate Cheese Cake",
+            "prod-price":"R450"
+        },
+        {
+            "prod-img":"https://i.postimg.cc/g0ZzYgYk/IMG-4739-petite-vanilla-bean-scones-horizontal.jpg",
+            "prod-name":"Vanilla Bean Scone",
+            "prod-price":"R15"
+        },
+        {
+            "prod-img":"https://i.postimg.cc/26BNdyqk/RED-VELVET-CAKE-23-S-01.jpg",
+            "prod-name":"Red Velvet Cake",
+            "prod-price":"R570"
+        }
+    ]
+}
